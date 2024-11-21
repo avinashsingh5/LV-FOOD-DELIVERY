@@ -1,0 +1,13 @@
+<svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" fill-rule="evenodd">
+    <text font-family="sans-serif" font-size="36" font-weight="bold" fill="#333" x="50" y="30">
+      LV Food Delivery
+    </text>
+    <path d="M150 50h-20v-20h20v20zm-40 0h-20v-20h20v20zm-40 0h-20v-20h20v20z" fill="#333" />
+    <path d="M100 50h-20v-20h20v20zm-20 0h-20v-20h20v20zm-20 0h-20v-20h20v20z" fill="#333" />
+    <path d="M80 70h20v-20h-20v20zm20 0h20v-20h-20v20z" fill="#333" />
+    <path d="M60 70h20v-20h-20v20zm20 0h20v-20h-20v20z" fill="#333" />
+    <path d="M40 70h20v-20h-20v20zm20 0h20v-20h-20v20z" fill="#333" />
+    <path d="M20 70h20v-20h-20v20zm20 0h20v-20h-20v20z" fill="#333" />
+  </g>
+</svg>
